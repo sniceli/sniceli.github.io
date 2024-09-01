@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://sniceli.github.io/sitemap.html.gz
+Sitemap: https://sniceli.github.io/app/sitemap.html.gz
+Sitemap: https://sniceli.github.io/assets/sitemap.html.gz
+Sitemap: https://sniceli.github.io/css/sitemap.html.gz
+Sitemap: https://sniceli.github.io/includes/sitemap.html.gz
+Sitemap: https://sniceli.github.io/item/sitemap.html.gz
+Sitemap: https://sniceli.github.io/src/sitemap.html.gz
